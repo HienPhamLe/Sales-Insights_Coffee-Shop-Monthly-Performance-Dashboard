@@ -17,3 +17,10 @@ The sample data is a table stored in MySQL Server with the columns shown below. 
 
 ![](images/data_model.PNG)
 
+## Data Visualization and Key Insights
+
+### Sales Overview
+
+
+
+
