@@ -13,3 +13,7 @@ The sample data is a table stored in MySQL Server with the columns shown below. 
 - SQL: Data cleaning and ETL
 - PowerBI: Creating calculations and visualization
 
+## Data Model
+
+![](images/data_model.PNG)
+
