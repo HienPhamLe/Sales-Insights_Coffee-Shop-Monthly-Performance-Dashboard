@@ -18,6 +18,7 @@ The sample data is a table stored in MySQL Server with the columns shown below. 
 ![](images/data_model.PNG)
 
 ## Data Visualization and Key Insights
+This is a 1-page Power BI report with multiple visuals that apply advanced techniques. You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiOGU1ODZiNzYtMmY4MC00NjJjLWI4NDYtYmQ5YTc3ZWZhOGQ1IiwidCI6IjQ0ZGMyOGI5LTI1NzAtNDcxMi1iNzRmLWI4ZGM3MTBkZjRmNCIsImMiOjEwfQ%3D%3D).
 
 March                           | April
 :------------------------------:|:--------------------------:
