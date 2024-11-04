@@ -1,4 +1,4 @@
-# Coffee Shop Sales Insights: Monthly Performance Dashboard
+# Sales Insights: Coffee Shop Monthly Performance Dashboard
 ![](images/dashboard.PNG)
 
 ## Project Overview
